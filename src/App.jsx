@@ -8,8 +8,8 @@ export default function App() {
       <motion.div
         className="box"
         animate={{
-          x: [0, 1000, 500, 1000, 0],
-          y: [0, 50, 50, 500, 0],
+          x: [0, 500, 500, 1000, 1000],
+          y: [0, 0, 400, 400, 0],
           rotate: 360,
         }}
         transition={{
