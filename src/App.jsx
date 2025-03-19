@@ -1,6 +1,5 @@
 import React from "react";
 import { motion } from "motion/react";
-import { anticipate } from "motion";
 
 export default function App() {
   return (
